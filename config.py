@@ -24,8 +24,8 @@ except:
 
 # Pyrogram setup
 class PyroConf(object):
-    API_ID = int(getenv("API_ID", "6"))
-    API_HASH = getenv("API_HASH", "eb06d4abfb49dc3eeb1aeb98ae0f581e")
+    API_ID = int(getenv("API_ID", "25933223"))
+    API_HASH = getenv("API_HASH", "6ef5a426d85b7f01562a41e6416791d3")
     BOT_TOKEN = getenv("BOT_TOKEN")
     SESSION_STRING = getenv("SESSION_STRING")
     BOT_START_TIME = time()
