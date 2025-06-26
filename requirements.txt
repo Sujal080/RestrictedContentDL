@@ -4,3 +4,6 @@ Pyleaves
 python-dotenv
 psutil
 pillow
+flask
+pyrogram
+tgcrypto
