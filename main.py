@@ -1,6 +1,9 @@
 # Copyright (C) @TheSmartBisnu
 # Channel: https://t.me/itsSmartDev
 
+from keep_alive import keep_alive
+keep_alive()
+# baaki user.start(), bot.run() etc.
 import os
 import shutil
 import psutil
